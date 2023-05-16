@@ -1,0 +1,25 @@
+# Poetry cache and virtual environment
+__pypackages__/
+.cache/
+.poetry/
+
+# Generated distribution files
+dist/
+build/
+*.egg-info/
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*~
+
+# Local development settings
+.env
+
+# OS or editor temporary files
+.DS_Store
+Thumbs.db
